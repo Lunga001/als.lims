@@ -1,0 +1,6 @@
+.template-administration #content-core div fieldset h2:nth-child(3){
+    display: none !important;
+}
+.template-administration #content-core div fieldset ul:nth-child(4){
+    display: none !important;
+}
